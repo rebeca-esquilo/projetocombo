@@ -42,3 +42,6 @@ body{
    background-color: transparent;
    border: 2px solid var var(--branco-principal);
 }
+.container__imagem{
+   margin: 1em 0 2em 0;
+}
